@@ -40,14 +40,18 @@ body {
 
 .element-top h1 {
 	color: #2BB3B1;
+	padding: 40px 50px 20px;
 }
 
 .element-top h3 {
 	color: #BFDF32;
+	padding: 0px 50px 20px;
 }
 
 .element-top p {
 	color: #848484;
+	font-size: 16px;
+	padding: 0px 50px 20px;
 }
 
 .element-left {
@@ -60,14 +64,19 @@ body {
 }
 
 .element-left h3 {
+	padding: 40px 50px 20px;
 	color: white;
 }
 
 .element-left p {
+	padding: 0px 50px 20px;
 	color: white;
+	font-size: 16px;
 }
 
-.btn {
+
+
+.btn  {
 	border: 1px solid #BFDF32;
 	background: #BFDF32;
 	font-family: 'Karla', sans-serif;
@@ -76,7 +85,9 @@ body {
 	border-radius: 10px;
 	font-size: 20px;
 	color: white;
+	margin: 0px 50px;
 }
+
 
 .element-right {
 	flex: none;
@@ -88,10 +99,13 @@ body {
 }
 
 .element-right h3 {
+	padding: 40px 50px 20px;
 	color: white;
 }
 
 .element-right ul {
+	padding: 0px 50px 20px;
 	color: white;
 	list-style: none;
+	font-size: 16px;
 }
