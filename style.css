@@ -5,3 +5,44 @@
 	padding: 0;
 } 
 
+body {
+	background-color: antiquewhite;
+} 
+
+.container {
+	background-color: white;
+	position: absolute ;
+	top: 500px;
+	left: 1000px;
+	height: 500px;
+	width: 1000px;
+	border-radius: 10px;
+	padding: 30px;
+}
+
+.elements {
+	border: 2px solid #47CC63;
+	height: 500px;
+	display: flex;
+	flex-wrap:wrap;
+	flex-flow: row wrap;
+	flex-direction: row;
+}
+
+.element-top {
+	border: 1px solid red;
+	height: 250px;
+	width: 1000px
+}
+
+.element-left {
+	border: 1px solid black;
+	height: 250px;
+	width: 495px;
+}
+
+.element-right {
+	border: 1px solid blue;
+	height: 250px;
+	width: 495px;
+}
