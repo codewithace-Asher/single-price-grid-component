@@ -18,7 +18,7 @@
 ---
 
 <p align="center">[The Result - Zoom]</p>
-<img src="design/final-result2.jpg">
+<img align="center" src="design/final-result2.jpg">
 
 ---
 
