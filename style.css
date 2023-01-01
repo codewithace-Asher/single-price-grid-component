@@ -41,17 +41,27 @@ body {
 .element-top h1 {
 	color: #2BB3B1;
 	padding: 40px 50px 20px;
+	font-size: 35px;
+	margin: 5px 5px;
+	letter-spacing: 1px;
 }
 
 .element-top h3 {
 	color: #BFDF32;
 	padding: 0px 50px 20px;
+	font-size: 25px;
+	margin: 5px 5px;
+	letter-spacing: 1px;
 }
 
 .element-top p {
 	color: #848484;
-	font-size: 16px;
+	font-size: 19px;
 	padding: 0px 50px 20px;
+	font-size: 18px;
+	color:  hsla(203,42%,76%,1.00);
+	margin: 5px 5px;
+	letter-spacing: 1px;
 }
 
 .element-left {
@@ -64,17 +74,21 @@ body {
 }
 
 .element-left h3 {
-	padding: 40px 50px 20px;
+	padding: 25px 50px 20px;
 	color: white;
+	font-size: 20px;
 }
 
 .element-left p {
 	padding: 0px 50px 20px;
 	color: white;
-	font-size: 16px;
+	font-size: 18px;
 }
 
-
+.element-left strong {
+	font-size: 30px;
+	color: white;
+}
 
 .btn  {
 	border: 1px solid #BFDF32;
@@ -99,13 +113,25 @@ body {
 }
 
 .element-right h3 {
-	padding: 40px 50px 20px;
+	padding: 25px 50px 20px;
 	color: white;
+	font-size: 20px;
 }
 
 .element-right ul {
-	padding: 0px 50px 20px;
+	padding: 10px 50px 20px;
 	color: white;
 	list-style: none;
-	font-size: 16px;
+	font-size: 17px;
+}
+
+.element-right li {
+	letter-spacing: 1px;
+	color:#E7E7E7;
+}
+
+.attribution {
+	position: absolute;
+	top: 65em;
+	left: 73rem;
 }
