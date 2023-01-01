@@ -88,6 +88,7 @@ body {
 .element-left strong {
 	font-size: 30px;
 	color: white;
+	letter-spacing: 2px;
 }
 
 .btn  {
