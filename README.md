@@ -13,7 +13,12 @@
 ---
 
 <p align="center">[The Result]</p>
-<img src="images/under-1.png">
+<img src="design/final-result.jpg">
+
+---
+
+<p align="center">[The Result - Zoom]</p>
+<img src="design/final-result2.jpg">
 
 ---
 
